@@ -15,7 +15,7 @@ It leverages multithreading to efficiently handle large password spaces and prov
     Multithreading: Utilizes threading to speed up the password generation process.
     Progress Indicator: Displays a loading bar to show the progress of password generation.
 
-## Prerequisites
+## Prerequisites (if you want to compile and do changes)
 
     C++11 or later
     A modern C++ compiler that supports threading (e.g., GCC, Clang, MSVC)
