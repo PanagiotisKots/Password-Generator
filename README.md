@@ -22,7 +22,7 @@ It leverages multithreading to efficiently handle large password spaces and prov
 
 
 
-## Building and Running
+## Running the programm
 
   Clone the Repository
 
