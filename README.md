@@ -83,7 +83,7 @@ Feel free to fork the repository and submit pull requests. If you encounter any 
 
 
 
-
+Feel free to adjust the sections or add more details specific to your project as needed!
 
 
 
