@@ -107,9 +107,9 @@ int main() {
     // loading bar in a separate thread
     thread loadingBarThread(showLoadingBar, ref(progress), totalPasswords, ref(done));
 
-    generatorThread.join(); // Wait for the password generation to finish
+    generatorThread.join(); 
     done = true;
-    loadingBarThread.join(); // Wait for the loading bar to finish
+    loadingBarThread.join(); 
 
     // printing and saving to file
     printPasswordsToScreen(passwords);
