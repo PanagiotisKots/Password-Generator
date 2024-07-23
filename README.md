@@ -28,12 +28,6 @@ It leverages multithreading to efficiently handle large password spaces and prov
 
     git clone https://github.com/PanagiotisKots/Password-Generator.git
     cd Password-Generator <= <Foler or path where you downloaded it>
-
-  Compile the Code
-
-  Use a C++ compiler to build the project. For example, with g++:
-
-    g++  -o password_generator main.cpp
     
 Run the Program
 
