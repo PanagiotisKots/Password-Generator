@@ -27,11 +27,11 @@ It leverages multithreading to efficiently handle large password spaces and prov
   Clone the Repository
 
     git clone https://github.com/PanagiotisKots/Password-Generator.git
-    cd Password-Generator <= <Foler or path where you downloaded it>
+    cd Password_Generator <= <Foler or path where you downloaded it>
     
 Run the Program
 
-          ./Password-Generator
+          ./Password_Generator
 
 ## Follow the prompts to enter the character set, password length, and output filename.
 
