@@ -31,7 +31,7 @@ It leverages multithreading to efficiently handle large password spaces and prov
     
 Run the Program
 
-          ./password_generator
+          ./Password_Generator
 
 ## Follow the prompts to enter the character set, password length, and output filename.
 
