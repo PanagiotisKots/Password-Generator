@@ -139,8 +139,8 @@ For any inquiries, contributions, or feedback, feel free to reach out to the pro
 
 | ![Creator Image](path/to/creator_image.png) | **Name**        | **Role**                   | **Email**                | **GitHub**                                      | **LinkedIn**                                   | **Twitter**                                   | **Facebook**                                  |
 |----------------------------------------------|-----------------|----------------------------|--------------------------|------------------------------------------------|-----------------------------------------------|-----------------------------------------------|-----------------------------------------------|
-| ![Creator Image](path/to/creator_image.png) | **[Your Name]** | Project Lead / Developer   | your.email@example.com   | [GitHub](https://github.com/yourusername)     | [LinkedIn](https://www.linkedin.com/in/yourprofile) | [Twitter](https://twitter.com/yourusername) | [Facebook](https://facebook.com/yourusername) |
-| ![Contributor Image](path/to/contributor_image.png) | **[Contributor Name]** | Contributor / Developer    | contributor.email@example.com | [GitHub](https://github.com/contributorusername) | [LinkedIn](https://www.linkedin.com/in/contributorprofile) | [Twitter](https://twitter.com/contributorusername) | [Facebook](https://facebook.com/contributorusername) |
+| ![Creator Image](path/to/creator_image.png) | **[Your Name]** | Project Lead / Developer   | your.email@example.com   | [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/yourusername)     | [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/yourprofile) | [![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/yourusername) | [![Facebook](https://skillicons.dev/icons?i=facebook)](https://facebook.com/yourusername) |
+| ![Contributor Image](path/to/contributor_image.png) | **[Contributor Name]** | Contributor / Developer    | contributor.email@example.com | [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/contributorusername) | [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/contributorprofile) | [![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/contributorusername) | [![Facebook](https://skillicons.dev/icons?i=facebook)](https://facebook.com/contributorusername) |
 
 ### General Inquiries
 
@@ -153,6 +153,4 @@ If you would like to contribute to the project, please check out our [Contributi
 ---
 
 **Note:** The contact information provided is for project-related inquiries only. For personal messages, please use the individual contact details listed above.
-
-          
 
