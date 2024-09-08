@@ -80,7 +80,7 @@ Clone the Repository:
 ## Usage 📋
 
 - **Launch the Application:**
-  - Open the compiled executable from the build directory or run it from Qt Creator.
+  - Open the compiled executable (app.exe)from the build directory or run it from Qt Creator.
 
 - **Generate Passwords:**
   - Enter the desired character set in the first input field.
