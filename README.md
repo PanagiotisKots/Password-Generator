@@ -157,7 +157,7 @@ The Qt Password Generator project utilizes a variety of technologies and tools. 
 
 | Technology       | Icon                                                 | Technology       | Icon                                                 | Technology       | Icon                                                 |
 |------------------|------------------------------------------------------|------------------|------------------------------------------------------|------------------|------------------------------------------------------|
-| **Qt**           | ![Qt](https://skillicons.dev/icons?i=qt)             | **C++**          | ![C++](https://skillicons.dev/icons?i=cplus)         | **CMake**        | ![CMake](https://skillicons.dev/icons?i=cmake)       |
+| **Qt**           | ![Qt](https://skillicons.dev/icons?i=qt)             | **C++**          | ![C++](https://skillicons.dev/icons?i=cplusplus)         | **CMake**        | ![CMake](https://skillicons.dev/icons?i=cmake)       |
 | **Git**          | ![Git](https://skillicons.dev/icons?i=git)           | **QWidget**      | ![QWidget](https://skillicons.dev/icons?i=qt)        | **QTimer**       | ![QTimer](https://skillicons.dev/icons?i=qt)        |
 | **QMessageBox**  | ![QMessageBox](https://skillicons.dev/icons?i=qt)     | **QTextEdit**    | ![QTextEdit](https://skillicons.dev/icons?i=qt)      | **QLineEdit**    | ![QLineEdit](https://skillicons.dev/icons?i=qt)      |
 | **QEventLoop**   | ![QEventLoop](https://skillicons.dev/icons?i=qt)      | **QPushButton**  | ![QPushButton](https://skillicons.dev/icons?i=qt)    | **QFileDialog**  | ![QFileDialog](https://skillicons.dev/icons?i=qt)    |
