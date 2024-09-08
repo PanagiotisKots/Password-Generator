@@ -167,10 +167,12 @@ The Qt Password Generator project utilizes a variety of technologies and tools. 
 
 <br>
 
-### Creator Information 📫
-| ![Creator Image](img/rt.webp) | **Name**                | **Role**                      | **Email**                |
-|------------------------------|-------------------------|-------------------------------|--------------------------|
-|                              | **Panagiotis Kotsorgios** | Project Lead and Only Developer | your.email@example.com   |
+| **Field**     | **Detail**                      |
+|---------------|--------------------------------|
+| ![Creator Image](img/rt.webp) |                                |
+| **Name**      | Panagiotis Kotsorgios           |
+| **Role**      | Project Lead and Only Developer |
+| **Email**     | your.email@example.com          |
 
 
 ### Contact Creator 📫
