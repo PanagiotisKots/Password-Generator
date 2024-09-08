@@ -59,7 +59,7 @@ The **Qt Password Generator** is a desktop application developed with the Qt fra
 
 
 
-Installation 🏗️
+# Installation 🏗️
 
 Clone the Repository:
 
