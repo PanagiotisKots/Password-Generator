@@ -55,7 +55,7 @@ The **Qt Password Generator** is a desktop application developed with the Qt fra
 
 **Note:** Ensure that all dependencies are correctly installed and configured to successfully build and run the application.
 
-**If you download the qt creator, it should have all the needed packages ready for usage**
+🚨 **If you download the qt creator, it should have all the needed packages ready for usage**
 
 
 
