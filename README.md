@@ -169,7 +169,7 @@ The Qt Password Generator project utilizes a variety of technologies and tools. 
 
 ### Creator Information 📫
 
-| ![Creator Image](path/to/creator_image.png) | **Name**                | **Role**                      | **Email**                |
+| ![Creator Image](img/rt.webp) | **Name**                | **Role**                      | **Email**                |
 |----------------------------------------------|-------------------------|-------------------------------|--------------------------|
 | **[PANAGIOTIS KOTSORGIOS]** | Project Lead and Only Developer | your.email@example.com   |
 
