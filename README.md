@@ -189,15 +189,6 @@ For any inquiries, contributions, or feedback, feel free to reach out to the pro
 
 For general questions or support, please email: [support@example.com](mailto:support@example.com)
 
-### Contribution
-
-If you would like to contribute to the project, please check out our [Contribution Guidelines](CONTRIBUTING.md) and feel free to open an issue or pull request.
-
----
-
-**Note:** The contact information provided is for project-related inquiries only. For personal messages, please use the individual contact details listed above.
-
-
 
 
 
