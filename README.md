@@ -139,10 +139,7 @@ Push to GitHub:
 ## License 📜
 
 This project is licensed under the MIT License - see the LICENSE file for details.
-Acknowledgments 🎉
 
-    Qt for the GUI framework.
-    Any other libraries or tools used in this project.
 
 <br>
 
