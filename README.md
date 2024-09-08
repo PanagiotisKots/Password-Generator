@@ -116,7 +116,7 @@ Build the Project:
 
 
 
-# Contributing 🤝
+## Contributing 🤝
 
     Fork the Repository: Create your own fork of this repository on GitHub.
     Create a Branch: Create a new branch for your changes.
@@ -137,7 +137,7 @@ Push to GitHub:
 
 
 
-License 📜
+## License 📜
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 Acknowledgments 🎉
