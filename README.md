@@ -14,7 +14,7 @@
 </div>
 
 
-## Overview
+## Overview 🧐
 
 The **Qt Password Generator** is a desktop application developed with the Qt framework. It allows users to generate passwords based on a specified character set and length, with an intuitive graphical user interface (GUI) for easy interaction.
 
