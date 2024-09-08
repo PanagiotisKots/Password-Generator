@@ -164,6 +164,7 @@ The Qt Password Generator project utilizes a variety of technologies and tools. 
 
 **Icons are sourced from [Skillicons](https://skillicons.dev/).**
 
+
 <br>
 
 ## Contact Information 📫
