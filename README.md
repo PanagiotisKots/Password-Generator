@@ -40,11 +40,16 @@ The **Qt Password Generator** is a desktop application developed with the Qt fra
 
 | Component        | Description                                         |
 |------------------|-----------------------------------------------------|
-| **Qt Creator** | Download from [Qt's official website](https://www.qt.io/download). |
+| **Qt Creator**   | Download from [Qt's official website](https://www.qt.io/download). |
 | **C++ Compiler** | Compatible C++ compiler (e.g., GCC, Clang, MSVC).  |
 | **C++ Standard** | C++11 or later is required for modern C++ features. |
 | **CMake**        | CMake 3.10 or later for managing the build process. |
 | **Git**          | Git for version control (optional but recommended for collaboration). |
+| **Docker**       | Docker for containerization (optional, if needed). |
+| **Kubernetes**   | Kubernetes for orchestration (optional, if needed). |
+| **CI/CD**        | CI/CD tools for automated build and deployment (optional, if needed). |
+| **Testing Tools**| Testing frameworks and tools (optional, for ensuring code quality). |
+
 
 
 **Note:** Ensure that all dependencies are correctly installed and configured to successfully build and run the application.
