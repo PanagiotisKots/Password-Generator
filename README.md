@@ -97,9 +97,26 @@ Build the Project:
   - Click the **"Clear"** button to clear the results displayed in the text area.
 
 
+![Qt](https://img.shields.io/badge/Qt-%232F4F4F.svg?style=for-the-badge&logo=qt&logoColor=white) 
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![Password Generation](https://img.shields.io/badge/password%20generation-%23000000.svg?style=for-the-badge&logo=key&logoColor=white)
+![Qt Creator](https://img.shields.io/badge/Qt%20Creator-%23000000.svg?style=for-the-badge&logo=qt-creator&logoColor=white) 
+![Qt Designer](https://img.shields.io/badge/Qt%20Designer-%23000000.svg?style=for-the-badge&logo=qt&logoColor=white) 
+![Cross-Platform](https://img.shields.io/badge/cross%20platform-%231A73E8.svg?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Open Source](https://img.shields.io/badge/open%20source-%232D72D9.svg?style=for-the-badge&logo=open-source-initiative&logoColor=white)
+![Encryption](https://img.shields.io/badge/encryption-%231E88E5.svg?style=for-the-badge&logo=key&logoColor=white) 
+![Algorithm](https://img.shields.io/badge/algorithm-%238E24AA.svg?style=for-the-badge&logo=algorithm&logoColor=white) 
+![Secure](https://img.shields.io/badge/secure-%239E9D24.svg?style=for-the-badge&logo=security&logoColor=white) 
+![Password Manager](https://img.shields.io/badge/password%20manager-%23FF5722.svg?style=for-the-badge&logo=password&logoColor=white) 
+![GUI](https://img.shields.io/badge/gui-%234CAF50.svg?style=for-the-badge&logo=gui&logoColor=white)
+![Windows](https://img.shields.io/badge/windows-%2317B2A3.svg?style=for-the-badge&logo=windows&logoColor=white) 
+![File System](https://img.shields.io/badge/file%20system-%238E24AA.svg?style=for-the-badge&logo=filesystem&logoColor=white) 
+![Cybersecurity](https://img.shields.io/badge/cybersecurity-%23000000.svg?style=for-the-badge&logo=cybersecurity&logoColor=white)
 
 
-Contributing 🤝
+
+# Contributing 🤝
 
     Fork the Repository: Create your own fork of this repository on GitHub.
     Create a Branch: Create a new branch for your changes.
@@ -166,22 +183,7 @@ If you would like to contribute to the project, please check out our [Contributi
 **Note:** The contact information provided is for project-related inquiries only. For personal messages, please use the individual contact details listed above.
 
 
-![Qt](https://img.shields.io/badge/Qt-%232F4F4F.svg?style=for-the-badge&logo=qt&logoColor=white) 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![Password Generation](https://img.shields.io/badge/password%20generation-%23000000.svg?style=for-the-badge&logo=key&logoColor=white)
-![Qt Creator](https://img.shields.io/badge/Qt%20Creator-%23000000.svg?style=for-the-badge&logo=qt-creator&logoColor=white) 
-![Qt Designer](https://img.shields.io/badge/Qt%20Designer-%23000000.svg?style=for-the-badge&logo=qt&logoColor=white) 
-![Cross-Platform](https://img.shields.io/badge/cross%20platform-%231A73E8.svg?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Open Source](https://img.shields.io/badge/open%20source-%232D72D9.svg?style=for-the-badge&logo=open-source-initiative&logoColor=white)
-![Encryption](https://img.shields.io/badge/encryption-%231E88E5.svg?style=for-the-badge&logo=key&logoColor=white) 
-![Algorithm](https://img.shields.io/badge/algorithm-%238E24AA.svg?style=for-the-badge&logo=algorithm&logoColor=white) 
-![Secure](https://img.shields.io/badge/secure-%239E9D24.svg?style=for-the-badge&logo=security&logoColor=white) 
-![Password Manager](https://img.shields.io/badge/password%20manager-%23FF5722.svg?style=for-the-badge&logo=password&logoColor=white) 
-![GUI](https://img.shields.io/badge/gui-%234CAF50.svg?style=for-the-badge&logo=gui&logoColor=white)
-![Windows](https://img.shields.io/badge/windows-%2317B2A3.svg?style=for-the-badge&logo=windows&logoColor=white) 
-![File System](https://img.shields.io/badge/file%20system-%238E24AA.svg?style=for-the-badge&logo=filesystem&logoColor=white) 
-![Cybersecurity](https://img.shields.io/badge/cybersecurity-%23000000.svg?style=for-the-badge&logo=cybersecurity&logoColor=white)
+
 
 
 
