@@ -35,17 +35,20 @@ The **Qt Password Generator** is a desktop application developed with the Qt fra
 
 
 
-
 ## Requirements ⚙️
 
 | Component        | Description                                         |
 |------------------|-----------------------------------------------------|
-| ![Qt Creator](https://img.shields.io/badge/Qt%20Creator-%23000000.svg?style=for-the-badge&logo=qt-creator&logoColor=white) **Qt Creator** | Download from [Qt's official website](https://www.qt.io/download). |
-| ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) **C++ Compiler** | Compatible C++ compiler (e.g., GCC, Clang, MSVC).  |
-| ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) **C++ Standard** | C++11 or later is required for modern C++ features. |
-| ![CMake](https://img.shields.io/badge/cmake-%232D72D9.svg?style=for-the-badge&logo=cmake&logoColor=white) **CMake** | CMake 3.10 or later for managing the build process. |
-| ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white) **Git** | Git for version control (optional but recommended for collaboration). |
-
+| ![Qt Creator](https://img.shields.io/badge/Qt%20Creator-%23000000.svg?style=for-the-badge&logo=qt-creator&logoColor=white) | **Qt Creator**  |
+|                  | Download from [Qt's official website](https://www.qt.io/download). |
+| ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) | **C++ Compiler** |
+|                  | Compatible C++ compiler (e.g., GCC, Clang, MSVC).  |
+| ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) | **C++ Standard** |
+|                  | C++11 or later is required for modern C++ features. |
+| ![CMake](https://img.shields.io/badge/cmake-%232D72D9.svg?style=for-the-badge&logo=cmake&logoColor=white) | **CMake**        |
+|                  | CMake 3.10 or later for managing the build process. |
+| ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white) | **Git**          |
+|                  | Git for version control (optional but recommended for collaboration). |
 
 
 
