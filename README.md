@@ -1,4 +1,11 @@
+<div align = "center">
+
+    
 # Qt Password Generator 🛠️
+
+
+</div>
+
 
 <div align = "center">
 
