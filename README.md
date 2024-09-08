@@ -167,14 +167,23 @@ The Qt Password Generator project utilizes a variety of technologies and tools. 
 
 <br>
 
-## Creator Information 📫
+### Creator Information 📫
 
-For any inquiries, contributions, or feedback, feel free to reach out to the project creators:
+| ![Creator Image](path/to/creator_image.png) | **Name**                | **Role**                      | **Email**                |
+|----------------------------------------------|-------------------------|-------------------------------|--------------------------|
+| ![Creator Image](path/to/creator_image.png) | **[PANAGIOTIS KOTSORGIOS]** | Project Lead and Only Developer | your.email@example.com   |
 
-| ![Creator Image](path/to/creator_image.png) | **Name**        | **Role**                   | **Email**                | **GitHub**                                      | **LinkedIn**                                   | **Twitter**                                   | **Facebook**                                  |
-|----------------------------------------------|-----------------|----------------------------|--------------------------|------------------------------------------------|-----------------------------------------------|-----------------------------------------------|-----------------------------------------------|
-| ![Creator Image](path/to/creator_image.png) | **[PANAGIOTIS KOTSORGIOS]** | Project Lead and Only Developer   | your.email@example.com   | [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/PanagiotisKots)     | [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/yourprofile) | [![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/yourusername) | [![Facebook](https://skillicons.dev/icons?i=facebook)](https://facebook.com/yourusername) |
-| ![Contributor Image](path/to/contributor_image.png) | **[Contributor Name]** | Contributor / Developer    | contributor.email@example.com | [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/contributorusername) | [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/contributorprofile) | [![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/contributorusername) | [![Facebook](https://skillicons.dev/icons?i=facebook)](https://facebook.com/contributorusername) |
+### Contact Creator 📫
+
+For any inquiries, contributions, or feedback, feel free to reach out to the project creator:
+
+| **Platform**   | **Icon**                                          | **Link**                                       |
+|----------------|---------------------------------------------------|------------------------------------------------|
+| **GitHub**     | ![GitHub](https://skillicons.dev/icons?i=github) | [Panagiotis Kots](https://github.com/PanagiotisKots) |
+| **LinkedIn**   | ![LinkedIn](https://skillicons.dev/icons?i=linkedin) | [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile) |
+| **Twitter**    | ![Twitter](https://skillicons.dev/icons?i=twitter) | [Your Twitter Profile](https://twitter.com/yourusername) |
+| **Facebook**   | ![Facebook](https://skillicons.dev/icons?i=facebook) | [Your Facebook Profile](https://facebook.com/yourusername) |
+
 
 ### General Inquiries
 
