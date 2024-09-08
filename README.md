@@ -70,14 +70,10 @@ Clone the Repository:
     git clone https://github.com/yourusername/qt-password-generator.git
     cd qt-password-generator
 
-Build the Project:
 
     Open the project in Qt Creator.
     Configure the project by following the prompts.
-    Build the project using the build button or via the command line:
 
-     qmake
-     make
 
 <br>
 
