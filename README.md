@@ -27,6 +27,15 @@ The **Qt Password Generator** is a desktop application developed with the Qt fra
 
 
 
+<div align = "center">
+
+<img src = "img/img1.jpg">
+
+</div>
+
+
+
+
 ## Requirements ⚙️
 
 | Component        | Description                                         |
