@@ -34,6 +34,7 @@ The **Qt Password Generator** is a desktop application developed with the Qt fra
 </div>
 
 
+<br>
 
 ## Requirements ⚙️
 
@@ -58,6 +59,7 @@ The **Qt Password Generator** is a desktop application developed with the Qt fra
 
 
 
+<br>
 
 # Installation 🏗️
 
@@ -77,7 +79,7 @@ Build the Project:
      qmake
      make
 
-
+<br>
 
 ## Usage 📋
 
@@ -96,6 +98,7 @@ Build the Project:
 - **Clear Text:**
   - Click the **"Clear"** button to clear the results displayed in the text area.
 
+<br>
 
 ![Qt](https://img.shields.io/badge/Qt-%232F4F4F.svg?style=for-the-badge&logo=qt&logoColor=white) 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
@@ -114,7 +117,7 @@ Build the Project:
 ![File System](https://img.shields.io/badge/file%20system-%238E24AA.svg?style=for-the-badge&logo=filesystem&logoColor=white) 
 ![Cybersecurity](https://img.shields.io/badge/cybersecurity-%23000000.svg?style=for-the-badge&logo=cybersecurity&logoColor=white)
 
-
+<br>
 
 ## Contributing 🤝
 
@@ -135,7 +138,7 @@ Push to GitHub:
     git push origin feature/your-feature
 
 
-
+<br>
 
 ## License 📜
 
@@ -144,6 +147,8 @@ Acknowledgments 🎉
 
     Qt for the GUI framework.
     Any other libraries or tools used in this project.
+
+<br>
 
 
 ## Technologies & Tools 🚀
@@ -159,7 +164,7 @@ The Qt Password Generator project utilizes a variety of technologies and tools. 
 
 **Icons are sourced from [Skillicons](https://skillicons.dev/).**
 
-
+<br>
 
 ## Contact Information 📫
 
