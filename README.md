@@ -172,7 +172,7 @@ The Qt Password Generator project utilizes a variety of technologies and tools. 
 | ![Creator Image](img/rt.webp) |                                |
 | **Name**      | Panagiotis Kotsorgios           |
 | **Role**      | Project Lead and Only Developer |
-| **Email**     | your.email@example.com          |
+| **Email**     | pkotsorgios654@gmail.com          |
 
 
 ### Contact Creator 📫
@@ -182,14 +182,14 @@ For any inquiries, contributions, or feedback, feel free to reach out to the pro
 | **Platform**   | **Icon**                                          | **Link**                                       |
 |----------------|---------------------------------------------------|------------------------------------------------|
 | **GitHub**     | ![GitHub](https://skillicons.dev/icons?i=github) | [Panagiotis Kots](https://github.com/PanagiotisKots) |
-| **LinkedIn**   | ![LinkedIn](https://skillicons.dev/icons?i=linkedin) | [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile) |
-| **Twitter**    | ![Twitter](https://skillicons.dev/icons?i=twitter) | [Your Twitter Profile](https://twitter.com/yourusername) |
-| **Facebook**   | ![Facebook](https://skillicons.dev/icons?i=facebook) | [Your Facebook Profile](https://facebook.com/yourusername) |
+| **LinkedIn**   | ![LinkedIn](https://skillicons.dev/icons?i=linkedin) | [Your LinkedIn Profile](https://www.linkedin.com/in/panagiotis-kotsorgios-019ab9303/) |
+| **Twitter**    | ![Twitter](https://skillicons.dev/icons?i=twitter) | [Your Twitter Profile](https://x.com/panosk750807) |
+
 
 
 ### General Inquiries
 
-For general questions or support, please email: [support@example.com](mailto:support@example.com)
+For general questions or support, please email: [pkotsorgios654@gmail.com](mailto:pkotsorgios654@gmail.com)
 
 
 
