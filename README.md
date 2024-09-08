@@ -167,7 +167,7 @@ The Qt Password Generator project utilizes a variety of technologies and tools. 
 
 <br>
 
-## Contact Information 📫
+## Creator Information 📫
 
 For any inquiries, contributions, or feedback, feel free to reach out to the project creators:
 
